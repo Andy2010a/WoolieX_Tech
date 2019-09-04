@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooliesX_Tech", "WoolieX_Tech\WooliesX_Tech.csproj", "{B13D4AF6-1C03-40B7-ADCA-B0D0A51D6E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooliesX_WeatherMap", "WooliesX_WeatherMap\WooliesX_WeatherMap.csproj", "{678C580F-BCE9-435A-9C03-26265767F22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13D4AF6-1C03-40B7-ADCA-B0D0A51D6E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13D4AF6-1C03-40B7-ADCA-B0D0A51D6E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13D4AF6-1C03-40B7-ADCA-B0D0A51D6E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13D4AF6-1C03-40B7-ADCA-B0D0A51D6E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678C580F-BCE9-435A-9C03-26265767F22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678C580F-BCE9-435A-9C03-26265767F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678C580F-BCE9-435A-9C03-26265767F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678C580F-BCE9-435A-9C03-26265767F22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC791FE5-27A2-4266-9DE5-AA8CC2D0395F}
+	EndGlobalSection
+EndGlobal
